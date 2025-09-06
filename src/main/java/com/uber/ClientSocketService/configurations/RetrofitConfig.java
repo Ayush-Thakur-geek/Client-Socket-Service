@@ -2,7 +2,6 @@ package com.uber.ClientSocketService.configurations;
 
 import com.netflix.discovery.EurekaClient;
 import com.uber.ClientSocketService.apis.BookingServiceApi;
-import com.uber.ClientSocketService.dtos.UpdateBookingResponseDTO;
 import okhttp3.OkHttpClient;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
